@@ -8,7 +8,9 @@ python3 test.py
 g++ -o test test.cpp  
 ./test  
 又は  
-sh run.sh A.cpp
+sh run.sh A.cpp  
+時間計測  
+time bash -c "./test"
 
 ### 資料
 https://qiita.com/espe0n/items/dc3905437748b7008a60
