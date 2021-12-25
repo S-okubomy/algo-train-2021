@@ -3,7 +3,7 @@
 using namespace std;
 
 template <class T> void chmax(T &a, T b) {
-  cout << "比較a: " << a << "　確認b: " << b << endl;
+  cout << "比較a: " << a << " 確認b: " << b << endl;
   if (a < b) { a = b; }
 }
 

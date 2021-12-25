@@ -1,2 +1,2 @@
 print("I'm Python!!")
-print("testです")
+print("test2です")

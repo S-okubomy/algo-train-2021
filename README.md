@@ -13,6 +13,7 @@ sh run.sh A.cpp
 time bash -c "./test"
 
 ### 資料
+#### 環境構築手順
 https://qiita.com/espe0n/items/dc3905437748b7008a60
 
 ### その他
@@ -20,3 +21,6 @@ https://qiita.com/espe0n/items/dc3905437748b7008a60
 2. ターミナルへの移動のショートカット: 「Ctrl + t」
    (https://onedarling.site/programming/tool/vscode-terminal-shortcutkey/)
 3. エディターへの移動: 「Ctrl + 1」
+4. エクスプローラへの移動: 「Ctrl + 0」
+5. エクスプローラの開閉: 「Ctrl + B」
+6. マークダウンプレビューをタブを分割して横に開く: 「Ctrl+K V」
